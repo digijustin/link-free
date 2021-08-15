@@ -1,16 +1,16 @@
-title: Link free
-shortTitle: Link free
-siteUrl: https://themes.marscollective.co/link-free
+title: Digi Rules The World
+shortTitle: Digi RTW
+siteUrl: https://www.digirulestheworld.com/
 description: ''
 lang: en
-logo: logo.png
-favicon: favicon.png
+logo: DigiRTWLogo250.png
+favicon: favicon-16x16.png
 rounded: '16'
 colors:
   DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
-  accent: '#262626'
-  background: '#262626'
+  highlight: '#6CCCE1'
+  accent: '#ED2591'
+  background: '#000000'
 tracking:
   which: none
   id: ''
