@@ -13,6 +13,6 @@ data:
     url: https://www.patreon.com/DigiRulesTheWorld
   - label: Store 🏪
     url: https://store.digirulestheworld.com/
-  - label: Like us on Facebook 👍
+  - label: Facebook 👍
     url: https://www.facebook.com/DigiRulesTheWorld
 ---
